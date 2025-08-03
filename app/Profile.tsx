@@ -12,8 +12,10 @@ const ProfilePage = () => {
         height={192}
         className="w-24 h-24 rounded-full"
       />
-      <h1 className="text-6xl font-medium text-stone-800">Atank L</h1>
-      <p className="text-2xl text-stone-400">{description}</p>
+      <h1 className="text-4xl md:text-6xl font-medium text-stone-800">
+        Atank L
+      </h1>
+      <p className="text-lg md:text-2xl text-stone-400">{description}</p>
       <LinksPage />
     </section>
   );
