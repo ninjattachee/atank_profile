@@ -4,10 +4,10 @@ const WorksPage = () => {
   return (
     <section className="flex flex-col gap-4">
       <Link
-        href="https://calendra.atank.org/book/user_2zJdrcBZH78G6KOWTY3qZJaNm3b"
+        href="https://app.enguy.homes"
         className="text-2xl text-yellow-400 underline hover:text-yellow-600 transition-all duration-300"
       >
-        Book my time
+        Conversation in English
       </Link>
       <div className="h-px bg-stone-200 w-full"></div>
       <Link
